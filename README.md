@@ -33,10 +33,6 @@ Put `EEG-IO` or `EEG-VV` or `EEG-VR` dataset in `data/` folder, and choose the a
 Run `blink_proc.py` for replicating the results presented in the paper
 
 
-<p align="center">
-  <img src="extras/output.png" width="600" title="Visualization of Blink output">
-</p>
-
 
 ## Contact
 ----------
