@@ -29,7 +29,7 @@ Dataset can be downloaded from [the link](http://gnan.ece.gatech.edu/eeg-eyeblin
 ## Codes
 --------
 
-Put `EEG-IO` or `EEG-VV` or `EEG-VR` dataset in `data/` folder, and choose the appropriate options in `blink_proc.py`
+Put `EEG-IO` or `EEG-VV` or `EEG-VR` dataset in `data/` folder, and choose the appropriate options in `blink_proc.py`.
 Run `blink_proc.py` for replicating the results presented in the paper
 
 
@@ -37,7 +37,7 @@ Run `blink_proc.py` for replicating the results presented in the paper
 ## Contact
 ----------
 [Mohit Agarwal](http://agmohit.com)(Email: me.agmohit@gmail.com)
-[Ekansh Gupta] (egupta8@gatech.edu)
+Ekansh Gupta (egupta8@gatech.edu)
 
 ## References
 -------------
